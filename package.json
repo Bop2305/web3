@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "web3": "^4.0.3"
+    "web3": "^4.0.3",
+    "web3-bzz": "^1.10.0",
+    "web3-eth-contract": "^4.0.3",
+    "web3-providers-ws": "^4.0.3",
+    "web3-shh": "^1.10.0",
+    "web3-utils": "^4.0.3"
   }
 }
